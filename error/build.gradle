@@ -37,7 +37,7 @@ dependencies {
 }
 
 ext {
-  PUBLISH_GROUP_ID = 'org.fs.widet'
+  PUBLISH_GROUP_ID = 'org.fs.widget'
   PUBLISH_ARTIFACT_ID = 'error_layout'
   PUBLISH_VERSION = '0.0.1'
 }
